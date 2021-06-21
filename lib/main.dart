@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Book Cart',
+      title: 'Booking Cart',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
